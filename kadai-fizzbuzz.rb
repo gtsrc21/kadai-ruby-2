@@ -13,5 +13,5 @@ def fizzbuzz(num)   #FizzBuzzメソッドを定義
 end
 
 (1..num_max).each do |i|    #ループ
-    puts fizzbuzz(i)
+  puts fizzbuzz(i)
 end
